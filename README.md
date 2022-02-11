@@ -14,7 +14,7 @@ title
 text
 Преобразования признаков: tfidf
 
-Модель: GradientBoostingClassifier
+Модель: Logreg
 
 Описание шагов
 - step_1 - загрузка данных, сбор Pipeline и обучение модели;
